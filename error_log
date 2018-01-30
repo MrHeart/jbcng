@@ -1,0 +1,5 @@
+[26-Jul-2016 19:28:58 Africa/Algiers] PHP Warning:  Unterminated comment starting line 137 in /home/getmscom/public_html/admin/application/views/pages/index.php on line 137
+[27-Jul-2016 14:06:11 Africa/Algiers] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/getmscom/public_html/admin/application/views/pages/authors_view.php on line 49
+[27-Jul-2016 17:46:38 Africa/Algiers] PHP Fatal error:  Call to a member function getAuthorBooks() on a non-object in /home/getmscom/public_html/admin/application/views/pages/authors_profile.php on line 82
+[29-Jul-2016 18:17:13 Africa/Algiers] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/getmscom/public_html/admin/application/controllers/Authors.php on line 33
+[29-Jul-2016 20:32:26 Africa/Algiers] PHP Fatal error:  Call to a member function delete_by_id() on a non-object in /home/getmscom/public_html/admin/application/controllers/Authors.php on line 61

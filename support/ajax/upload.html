@@ -1,0 +1,89 @@
+<!doctype html>
+<head>
+<script src="../js/jquery.min.js"></script>
+<script src="../js/jquery.form.js"></script>
+<style>
+form { display: block; margin: 20px auto; background: #eee; border-radius: 10px; padding: 15px }
+#progress { position:relative; width:400px; border: 1px solid #ddd; padding: 1px; border-radius: 3px; }
+#bar { background-color: #B4F5B4; width:0%; height:20px; border-radius: 3px; }
+#percent { position:absolute; display:inline-block; top:3px; left:48%; }
+</style>
+
+<script>
+$(document).ready(function()
+{
+	$("#progress").hide();
+	
+	var mydata={action: 'UPLOAD'};
+	
+	var options = {
+		beforeSend: function() 
+		{
+			$("#progress").show();
+			//clear everything
+			$("#bar").width('0%');
+			$("#message").html("");
+			$("#percent").html("0%");
+		},
+		uploadProgress: function(event, position, total, percentComplete) 
+		{
+			$("#bar").width(percentComplete+'%');
+			$("#percent").html(percentComplete+'%');
+	
+		
+		},
+		success: function() 
+		{
+			$("#bar").width('100%');
+			$("#percent").html('100%');
+	
+		},
+		complete: function(response) 
+		{
+			setTimeout(function() {
+				$("#progress").hide();
+				$("#myfile").val('');
+			}, 2000);
+		},
+		error: function(xhr,status,error)
+		{
+			alert('Error Uploading Company Logo.\nSTATUS: '+ xhr.status + '\nERROR: ' + error);	
+		}
+		 
+	}; 
+
+$('#btn').click(function(e) {
+    //alert('Do Something');
+	$("#myForm").ajaxForm(options);
+	
+	$("#myForm").submit();
+});
+     
+
+});
+
+</script>
+</head>
+<body>
+<h1>File Upload</h1>
+
+<form id="myForm" action="clientlogo_model" method="post" enctype="multipart/form-data">
+     <input type="file" size="40" name="myfile" id="myfile">
+     <input type="button" value="Upload Logo" id="btn">
+ </form>
+ 
+ 
+ <div id="progress">
+        <div id="bar"></div>
+        <div id="percent">0%</div >
+</div>
+<br/>
+    
+<div id="message"></div>
+
+
+
+</body>
+
+
+</html>

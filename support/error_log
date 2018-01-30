@@ -1,0 +1,876 @@
+[14-Oct-2016 15:14:25 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:14:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:14:25 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:14:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:14:58 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:14:58 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:14:58 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:14:58 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:15:09 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:15:09 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:15:09 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:15:09 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:15:16 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:15:16 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:15:16 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:15:16 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:15:18 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:15:18 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:15:18 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:15:18 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:15:21 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:15:21 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:15:21 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:15:21 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:15:22 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:15:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:15:22 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:15:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:15:22 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:15:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:15:22 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:15:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:15:22 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:15:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:15:22 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:15:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:15:40 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:15:40 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:15:40 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:15:40 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:15:41 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:15:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:15:41 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:15:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:18:57 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:18:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:18:57 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:18:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:19:00 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:19:00 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:19:00 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:19:00 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:19:03 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:19:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:19:03 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:19:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:19:03 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:19:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:19:03 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:19:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:19:03 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:19:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:19:03 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:19:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:19:03 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:19:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:19:03 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:19:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:20:51 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:20:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:20:51 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:20:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:20:51 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:20:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:20:51 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:20:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:20:52 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:20:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:20:52 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:20:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:20:52 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:20:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:20:52 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:20:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:20:53 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:20:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:20:53 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:20:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:20:55 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:20:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:20:55 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:20:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:20:55 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:20:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:20:55 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:20:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:20:55 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:20:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:20:55 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:20:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:20:55 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:20:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:20:55 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:20:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:20:59 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:20:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:20:59 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:20:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:21:02 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:21:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:21:02 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:21:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:21:04 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:21:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:21:04 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:21:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:21:04 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:21:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:21:04 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:21:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:21:04 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:21:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:21:04 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:21:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:21:04 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:21:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:21:04 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:21:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:21:19 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:21:19 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:21:19 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:21:19 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:21:20 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:21:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:21:20 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:21:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:21:20 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:21:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:21:20 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:21:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:21:20 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:21:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[14-Oct-2016 15:21:20 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[14-Oct-2016 15:21:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 10:39:55 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 10:39:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 10:39:55 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 10:39:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 10:40:22 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 10:40:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 10:40:22 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 10:40:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 10:40:23 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 10:40:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 10:40:23 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 10:40:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 10:40:35 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 10:40:35 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 10:40:35 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 10:40:35 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 10:40:36 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 10:40:36 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 10:40:36 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 10:40:36 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 10:40:42 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 10:40:42 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 10:40:42 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 10:40:42 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 10:40:42 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 10:40:42 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 10:40:42 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 10:40:42 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 10:40:43 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 10:40:43 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 10:40:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 10:40:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 10:40:43 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 10:40:43 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 10:40:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 10:40:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 10:41:06 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 10:41:06 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 10:41:06 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 10:41:06 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 10:41:06 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 10:41:06 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 10:41:06 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 10:41:06 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 10:41:06 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 10:41:06 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 10:41:06 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 10:41:06 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 10:41:06 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 10:41:06 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 10:41:06 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 10:41:06 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 11:30:16 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 11:30:16 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 11:30:16 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 11:30:16 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 11:32:36 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 11:32:36 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 11:32:36 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 11:32:36 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 11:33:21 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 11:33:21 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 11:33:21 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 11:33:21 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 11:34:28 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 11:34:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 11:34:28 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 11:34:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 11:35:20 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 11:35:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 11:35:20 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 11:35:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 11:35:27 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 11:35:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 11:35:27 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 11:35:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 11:35:27 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 11:35:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 11:35:27 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 11:35:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 11:35:28 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 11:35:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 11:35:28 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 11:35:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 11:35:30 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 11:35:30 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 11:35:30 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 11:35:30 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 11:36:22 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 11:36:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 11:36:22 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 11:36:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 11:36:24 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 11:36:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 11:36:24 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 11:36:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 11:36:25 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 11:36:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 11:36:25 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 11:36:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 11:36:26 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 11:36:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 11:36:26 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 11:36:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 11:40:01 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 11:40:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 11:40:01 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 11:40:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 11:40:02 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 11:40:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 11:40:02 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 11:40:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 11:40:02 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 11:40:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 11:40:02 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 11:40:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 11:40:02 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 11:40:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 11:40:02 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 11:40:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 11:43:10 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 11:43:10 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 11:43:10 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 11:43:10 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 11:43:10 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 11:43:10 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 11:43:10 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 11:43:10 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 11:43:12 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 11:43:12 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 11:43:12 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 11:43:12 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 11:43:18 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 11:43:18 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[27-Feb-2017 11:43:18 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Feb-2017 11:43:18 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[03-Mar-2017 16:39:16 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[03-Mar-2017 16:39:16 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[03-Mar-2017 16:39:16 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[03-Mar-2017 16:39:16 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[03-Mar-2017 16:39:43 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[03-Mar-2017 16:39:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[03-Mar-2017 16:39:43 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[03-Mar-2017 16:39:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[03-Mar-2017 16:43:49 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[03-Mar-2017 16:43:49 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[03-Mar-2017 16:43:49 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[03-Mar-2017 16:43:49 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0

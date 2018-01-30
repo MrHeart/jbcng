@@ -1,0 +1,1 @@
+SELECT course FROM courses WHERE (TRIM(facabrev)='ADMIN.') AND (TRIM(dept)='BANKING AND FINANCE') AND (TRIM(courseabrev)='BANK/FIN')

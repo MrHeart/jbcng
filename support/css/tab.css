@@ -1,0 +1,29 @@
+html { overflow-y: scroll; }
+a { text-decoration: none; }
+a:focus { outline: 0; }
+p { font-size: 15px; margin: 0 0 20px 0; }
+
+/* Generic Utility */
+.hide { position: absolute; top: -9999px; left: -9999px; }
+
+/* Specific to mytabs */
+
+#mytabs { background:inherit; border-color:#6CF; padding: 5px; margin: 0 0 5px 0; -moz-box-shadow: 0 0 5px #666; -webkit-box-shadow: 0 0 5px #666;}
+
+#mytabs .nav {  overflow: hidden; margin: 0 0 10px 0; background-color:#57738F }
+#mytabs .nav li { width: 205px; float: center; margin: 0 10px 0 0; display:inline-block; border:ridge }
+#mytabs .nav li.last { margin-right: 0; }
+#mytabs .nav li a { display: block; padding: 5px; background: #959290; color: white; font-size: 12px; text-align: center; border: 0; font-weight:bold; }
+#mytabs .nav li a:hover { background-color: #111; }
+
+#mytabs ul { list-style: none; }
+#mytabs ul li a { display: block; border-bottom: 1px solid #666; padding: 4px; color: #666; }
+#mytabs ul li a:hover { background: #fe4902; color: white; }
+#mytabs ul li:last-child a { border: none; }
+
+#mytabs ul li.nav-one a.current, #mytabs ul.general li a:hover { background-color: #930; color: white; }
+#mytabs ul li.nav-two a.current, #mytabs ul.sms li a:hover { background-color: #930; color: white; }
+#mytabs ul li.nav-three a.current, #mytabs ul.view li a:hover { background-color: #930; color: white; }
+
+#mytabs ul li.nav-done a.current, #mytabs ul.payment li a:hover { background-color:#930; color: white; }
+#mytabs ul li.nav-dtwo a.current, #mytabs ul.preview li a:hover { background-color: #930; color: white; }

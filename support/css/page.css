@@ -1,0 +1,28 @@
+/**
+PAGINATION STYLES
+**/
+#tablePagination { 
+	background-color: #EEE3D5; 
+	font-size: 0.8em; 
+	padding: 5px 5px; 
+	height: 18px;
+  }
+  
+  #tablePagination_paginater { 
+	margin-left: auto; 
+	margin-right: auto;
+  }
+  
+  #tablePagination img { 
+	padding: 0px 2px;
+	width:16px;
+	height:16px;
+  }
+  
+  #tablePagination_perPage { 
+	float: left; 
+  }
+  
+  #tablePagination_paginater { 
+	float: right;
+  }

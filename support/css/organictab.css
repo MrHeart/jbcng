@@ -1,0 +1,35 @@
+/*
+	 Organic Tabs
+	 by Chris Coyier
+	 http://css-tricks.com
+*/
+
+* { margin: 0; padding: 0; }
+body { font: 12px Georgia, serif; }
+html { overflow-y: scroll; }
+a { text-decoration: none; }
+a:focus { outline: 0; }
+p { font-size: 15px; margin: 0 0 20px 0; }
+#page-wrap { width: auto; margin: 0px ; }
+/*h1 { font: bold 40px Sans-Serif; margin: 0 0 20px 0; }*/
+
+/* Generic Utility */
+.hide { position: absolute; top: -9999px; left: -9999px; }
+
+
+/* Specific to mytabs */
+
+#mytabs .list-wrap { background: #eee; padding: 10px; margin: 0 0 15px 0; }
+
+#mytabs ul { list-style: none; }
+#mytabs ul li a { display: block; border-bottom: 1px solid #666; padding: 4px; color: #666; }
+#mytabs ul li a:hover { background: #333; color: white; }
+#mytabs ul li:last-child a { border: none; }
+
+#mytabs .nav { overflow: hidden; }
+#mytabs .nav li { width: 97px; float: left; margin: 0 10px 0 0; }
+#mytabs .nav li.last { margin-right: 0; }
+#mytabs .nav li a { display: block; padding: 5px; background: #666; color: white; font-size: 10px; text-align: center; border: 0; }
+
+#mytabs li a.current,#mytabs li a.current:hover { background-color: #eee !important; color: black; }
+#mytabs .nav li a:hover, #mytabs .nav li a:focus { background: #999;}
